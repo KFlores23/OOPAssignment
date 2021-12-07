@@ -1,0 +1,8 @@
+hangman
+programming
+car
+cat
+dog
+pencil
+clothes
+discombobulate

@@ -1,0 +1,5 @@
+﻿  AssignmentOOP.cpp
+C:\Users\Kyle\source\repos\AssignmentOOP\AssignmentOOP\AssignmentOOP.cpp(122,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Kyle\source\repos\AssignmentOOP\AssignmentOOP\AssignmentOOP.cpp(162,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Kyle\source\repos\AssignmentOOP\AssignmentOOP\AssignmentOOP.cpp(174,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  AssignmentOOP.vcxproj -> C:\Users\Kyle\source\repos\AssignmentOOP\Debug\AssignmentOOP.exe
